@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://s1070815.github.io/map1215/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>觀光工廠與原住民餐廳</title>
+	<link rel="stylesheet" href="./觀光工廠與原住民餐廳_files/style.css" type="text/css">
+</head>
+<body>
+	<div id="page">
+		<div id="header">
+			<div class="background">
+				<h1 id="logo"> <a href="https://s1070815.github.io/map1215/index.html">文化美食大聯盟</a> </h1>
+				<div id="navigation">
+					<ul>
+						<li class="selected">
+							<a href="https://s1070815.github.io/map1215/index.html">資料說明</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="contents">
+			<div id="adbox">
+				<div>
+					<iframe src="./觀光工廠與原住民餐廳_files/embed.html" width="954" height="480"></iframe>
+					<h1>資料說明</h1>
+
+					<p style="line-height: 20px;">
+						觀光工廠就像是一座遊樂園，不僅帶給遊客驚喜，享受歡樂，更能藉由產業觀光化讓消費者與企業近距離接觸，發揮體驗行銷之效，創造更多收入。
+						
+					</p>
+					<br>
+					<br>
+				</div>
+			</div>
+			
+		</div>
+		<div id="footer">
+			<div class="background">
+				<div class="body">
+					
+					<div class="section">
+						<h3>聯絡資訊</h3>
+						<ul>
+							<li>
+								<span>網頁製作</span><strong>:</strong>
+								<p>
+									 靜宜大學 觀三A 410708905 林宜貞
+								</p>
+							</li>
+							
+							<li>
+								<span>社群</span><a href="https://s1070815.github.io/map1215/#" target="_blank" class="twitter"></a><a href="https://s1070815.github.io/map1215/#" target="_blank" class="facebook"></a>
+							</li>
+						</ul>
+					</div>
+					<p id="footnote">
+						© Copyright 2023. All rights reserved.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body></html>
